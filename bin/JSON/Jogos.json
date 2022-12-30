@@ -1,0 +1,38 @@
+[
+{
+"nome":"Fall Guys",
+"caminho":"D:\\GAMES\\FallGuys\\RunFallGuys.exe",
+"icone":"fallguys.png",
+"fundo":"fallguys.png"
+}, 
+{
+"nome":"Fortnite",
+"caminho":"D:\\GAMES\\Fortnite\\FortniteGame\\Binaries\\Win64\\FortniteLauncher.exe",
+"icone":"fortnite.png",
+"fundo":"fortnite.png"
+},
+{
+"nome":"AmongUs",
+"caminho":"D:\\GAMES\\AmongUs\\Among Us.exe",
+"icone":"amongus.png",
+"fundo":"amongus.png"
+},
+{
+"nome":"Grand Theft Auto V",
+"caminho":"D:\\GAMES\\GTAV\\PlayGTAV.exe",
+"icone":"gtav.png",
+"fundo":"gtav.png"
+},
+{
+"nome":"Rocket League",
+"caminho":"D:\\GAMES\\rocketleague\\Binaries\\Win64\\RocketLeague.exe",
+"icone":"rocketleague.png",
+"fundo":"rocketleague.png"
+},
+{
+"nome":"Microsoft Edge",
+"caminho":"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+"icone":"edge.png",
+"fundo":"edge.png"
+}
+]
